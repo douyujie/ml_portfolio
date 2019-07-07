@@ -2,6 +2,7 @@ trained_models/
 .idea/
 .ipynb_checkpoints/
 .gitignore
+trail.ipynb
 
 
 # Byte-compiled / optimized / DLL files
